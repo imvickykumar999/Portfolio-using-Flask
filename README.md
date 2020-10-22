@@ -6,4 +6,4 @@
 Simple Portfolio using html css and Flask
 ----------------------------
 
-[![Profile Photo](https://github.com/imvickykumar999/oye-vicks/blob/master/image/profile.jpg)](https://imvickykumar999.github.io/Portfolio-oye-vicks/)
+[![Profile Photo](https://raw.githubusercontent.com/imvickykumar999/Portfolio-oye-vicks/master/image/profile.jpg)](https://imvickykumar999.github.io/Portfolio-oye-vicks/)
